@@ -38,7 +38,7 @@ const Footer = () => {
       </div>
       <hr />
       <p className="footer-copyright">
-        Copyright 2025 © Nelblesskitchen.com All Reserved.{" "}
+        Copyright 2026 © Nelblesskitchen.com All Reserved.{" "}
       </p>
     </div>
   );

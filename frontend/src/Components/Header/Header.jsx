@@ -12,7 +12,9 @@ const Header = () => {
           satisfy your cravings and elevate your dining experience, one
           delicious meal at a time.
         </p>
-        <button>view menu</button>
+        <button>
+          <a href="#explore-menu">Explore Menu</a>
+        </button>
       </div>
     </div>
   );
