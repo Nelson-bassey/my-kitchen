@@ -3,7 +3,7 @@
   align-items: start;
   justify-content: space-between;
   gap: 50px;
-  margin: 100px;
+  /* margin: 100px; */
 }
 .place-order-left {
   width: 100%;
@@ -37,8 +37,13 @@
   .place-order {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    overflow-x: 0%;
+
   }
   .place-order-left .title {
     font-size: larger;
+    text-align: left;
   }
 }
